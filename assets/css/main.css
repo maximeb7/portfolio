@@ -1823,9 +1823,9 @@ input, select, textarea {
 			flex-wrap: wrap;
 		}
 
-			.gallery .group > * {
+			/*.gallery .group > * {
 				height: 50%;
-			}
+			}*/
 
 		.gallery .modal {
 			display: -moz-flex;
